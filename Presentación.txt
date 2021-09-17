@@ -12,3 +12,5 @@ mi rol en este proyecto es Desarrollador
 Presentación Jhon Zafra
 Mi rol en este proyecto es administrador de BD
 
+Presentación Andrés Zapata
+    Mi  rol en este proyecto es de Product Owner.
